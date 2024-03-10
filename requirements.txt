@@ -1,0 +1,17 @@
+deeplake
+openai
+tiktoken
+transformers
+torch
+numpy
+trl
+peft
+wandb
+bitsandbytes
+accelerate
+tqdm
+neural_compressor
+onnx
+pandas
+scipy
+langchain
